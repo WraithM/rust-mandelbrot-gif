@@ -1,6 +1,6 @@
 #+TITLE: Mandelbrot Gifs in Rust
 #+AUTHOR: Matthew Wraith
 
-* Rust gif animations of mandelbrot zooms
+Gif animations of simple mandelbrot zooming.
 
 This is heavily inspired by [[https://github.com/ProgrammingRust/mandelbrot/][Programming Rust mandelbrot]]. This adds gifs.
