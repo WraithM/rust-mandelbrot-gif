@@ -1,0 +1,9 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["Matthew Wraith <wraithm@gmail.com>"]
+
+[dependencies]
+num = "0.2.0"
+image = "0.19.0"
+gif = "0.10.0"
